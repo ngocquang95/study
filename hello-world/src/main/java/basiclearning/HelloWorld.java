@@ -11,4 +11,12 @@ public class HelloWorld {
     private String property8;
     private String property9;
     private String property10;
+
+    public String getProperty3() {
+        return property3;
+    }
+
+    public void setProperty3(String property3) {
+        this.property3 = property3;
+    }
 }
